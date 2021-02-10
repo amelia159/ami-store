@@ -1,0 +1,7 @@
+$primary: #ff7f00;
+$black2: #495057;
+@import 'bootstrap/bootstrap.scss';
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: $black2;
+}
